@@ -1,2 +1,2 @@
-# fr3.store
+#genius
 store
